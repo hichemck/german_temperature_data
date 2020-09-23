@@ -1,4 +1,4 @@
-# German Temperature Data Preprocessing and Applying Haversine Calcuation to Impute Missing Values
+# German Temperature Data Processing and Applying Haversine Calcuation to Impute Missing Values
 
 ## Task
 In this project I have been working with temperature data from 
@@ -14,7 +14,7 @@ Due to the huge size of the data (4,5 GB) I did not upload it in this repository
 Here is the procedure to read the data and run the notebook:
 
 
-- Go to [ecad site](https://www.ecad.eu/)
+- Go to [ECAD site](https://www.ecad.eu/)
 - Go to “Daily data”
 - Download predefined subsets (ASCII) 
 - Pick "Daily mean temperature tg" (position 3)
