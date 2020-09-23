@@ -4,7 +4,7 @@
 In this project I have been working with temperature data from 
 European Climate Assessment & Dataset [ECAD](https://www.ecad.eu/).
 The data contains daily temperature measurements in all european cities. 
-I chose to extract and preprocess data for german state capitals (Landeshaupstädte) for the last 20 
+I chose to extract and process data for german state capitals (Landeshaupstädte) for the last 20 
 years. 
 The main challenge in this project is to deal with not available measurements
 and define a good imputation strategy.
