@@ -18,8 +18,8 @@ Here is the procedure to read the data and run the notebook:
 - Go to “Daily data”
 - Download predefined subsets (ASCII) 
 - Pick "Daily mean temperature tg" (position 3)
-- Save the the files in a folder names 'data' on the same level as the notebook file 'temperature_data_preprocessing'.
-Note that each station has a txt file.
+- Save the data files in a folder names 'data' on the same level as the notebook file 'temperature.ipynb'.
+Note that each station has its own text file.
 - Download the notebook 'temperature_data_preprocessing' and run it
 
 ## Work Breakdown
